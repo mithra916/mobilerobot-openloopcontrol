@@ -78,18 +78,17 @@ if _name_ == '_main_':
     ep_robot.close()
     ep_robot.close()
 ```
-
 ## MobileRobot Movement Image:
 
 ![robo](./img/robomaster.png)
+
 Insert image here
+
 ![image](https://github.com/mithra916/mobilerobot-openloopcontrol/assets/149986612/316a0be5-49af-4310-b30e-630580339903)
 
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 https://youtu.be/Jdz72fgrOsE?si=crCqnjPgzdnMR2l-
 ## Result:
